@@ -424,7 +424,7 @@ export default function WhyReportSection() {
       {/* ── Workforce Timeline Section (unchanged) ── */}
       <div className="rounded-xl" ref={sectionRef} style={{ height: isMobile ? "80vh" : "300vh", position: "relative", marginTop: 0 }}>
         <div style={{
-          position: "sticky", top: 0, height: isMobile ? "80vh" : "105vh",
+          position: "sticky", top: 0, height: isMobile ? "80vh" : "128vh",
           overflow: "hidden",
           display: "flex", flexDirection: "column",
           background: "#fff",
