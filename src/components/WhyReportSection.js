@@ -92,7 +92,7 @@ export default function WhyReportSection() {
           <div style={{
             textAlign: "center",
             opacity: visible ? 1 : 0,
-            transform: visible ? "translateY(0)" : "translateY(20px)",
+            transform: visible ? "translateY(0px)" : "translateY(20px)",
             transition: "opacity 0.5s ease, transform 0.5s ease",
           }}>
             <p style={{
