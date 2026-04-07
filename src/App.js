@@ -19,6 +19,7 @@ import ReferralRingSection from './components/RefferalRing';
 import GpsSpoofer from './components/GpsSpoofer';
 import WhyForward from './components/whyForward'
 import Footer from './components/Footer';
+import Workforce from './components/Workforce';
 export default function App() {
   return (
     <div>
@@ -28,6 +29,7 @@ export default function App() {
       <PillarsSection />
       <TrustSection />
       <WhyReportSection />
+      <Workforce />
       <PeopleSection />
       <FraudSection/>
       <Question />
